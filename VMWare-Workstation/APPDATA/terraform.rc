@@ -1,0 +1,4 @@
+dev_overrides {
+      "elsudano/vmworkstation" = "C:/Users/jtu03/terraform-provider-vmworkstation_v1.0.3.exe"
+  }
+  direct {}
